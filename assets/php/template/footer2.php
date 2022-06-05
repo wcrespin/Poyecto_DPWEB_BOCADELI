@@ -2,7 +2,7 @@
 		<!-- Footer -->
         <footer id="footer">
 				<div class="copyright">
-					&copy; "El hombre adecuado en el sitio equivocado puede cambiar el rumbo del mundo." <br> G-Man 
+				&copy; "TODOS LOS DERECHOS RESERVADOS BOCADELI.
 				</div>
 			</footer>
 

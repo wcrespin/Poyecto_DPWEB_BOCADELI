@@ -2,7 +2,7 @@
 		<!-- Footer -->
         <footer id="footer">
 				<div class="copyright">
-					&copy; "Al final, ¿Qué distingue al hombre libre del esclavo? ¿Dinero? ¿Poder? No. El hombre elige. El esclavo obedece" <br> Andrew Ryan - Bioshock
+				&copy; "TODOS LOS DERECHOS RESERVADOS BOCADELI.
 				</div>
 			</footer>
 
